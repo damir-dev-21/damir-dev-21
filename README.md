@@ -1,9 +1,9 @@
 
 <div align="center">
-  <bold>Hi there 👋</bold> 
+  <bold>Hi there</bold> 👋
   I`m Damir
 </div> 
-
+<br/>
 <div id="badges" align="center">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/Instagram-#3f729b?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
