@@ -5,9 +5,9 @@
 <br>
 
 <div align="center">
-  <h3>Developer, keep learning new things</h3>
+  <h3>Developer, who keep learning new things</h3>
 </div>  
-<br>
+
 <div id="badges" align="center">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
