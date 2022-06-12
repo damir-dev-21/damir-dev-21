@@ -1,6 +1,6 @@
 
 <div align="center">
-  ### Hi there 👋 
+  <bold>Hi there 👋</bold> 
   Im Damir
 </div> 
 
