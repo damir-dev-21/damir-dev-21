@@ -2,7 +2,7 @@
 <div align="center">
   <h1>Hello there 👋,  I`m Damir</h1> 
 </div> 
-<br>
+
 
 <div align="center">
   <h3>Developer, who keep learning new things</h3>
