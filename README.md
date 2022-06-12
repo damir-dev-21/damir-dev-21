@@ -1,4 +1,8 @@
-### Hi there 👋
+
+<div align="center">
+  ### Hi there 👋 
+  Im Damir
+</div> 
 
 <!--
 **damir-dev-21/damir-dev-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
