@@ -10,20 +10,20 @@
 
 
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
+  <a href="https://www.instagram.com/invites/contact/?i=1qd0di0hgzd06&utm_content=koxdm99">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="https://t.me/damir1768">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
 
 <br>
 
-### 👨‍💻: About Me:
+### 👨‍💻 About Me:
 - 🔭 I’m currently working on myself
 - 🌱 I’m currently learning Mobile Developing, Backend, Machine Learning
-- 📫 How to reach me: <a href="https://www.instagram.com/invites/contact/?i=1qd0di0hgzd06&utm_content=koxdm99">Instagram</a> or <a href="https://www.instagram.com/invites/contact/?i=1qd0di0hgzd06&utm_content=koxdm99">Telegram</a>
+- 📫 How to reach me: <a href="https://www.instagram.com/invites/contact/?i=1qd0di0hgzd06&utm_content=koxdm99">Instagram</a> or <a href="https://t.me/damir1768">Telegram</a>
 - 👀 Quotion: If the code works then it's good code☝🏻😌
 
 <br>
