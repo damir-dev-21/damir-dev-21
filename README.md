@@ -20,11 +20,11 @@
 
 <br>
 
-### :woman_technologist: About Me:
+### 👨‍💻: About Me:
 - 🔭 I’m currently working on myself
 - 🌱 I’m currently learning Mobile Developing, Backend, Machine Learning
 - 📫 How to reach me: <a href="https://www.instagram.com/invites/contact/?i=1qd0di0hgzd06&utm_content=koxdm99">Instagram</a> or <a href="https://www.instagram.com/invites/contact/?i=1qd0di0hgzd06&utm_content=koxdm99">Telegram</a>
-- 👀 Quotion: _If the code works then it's good code☝🏻😌
+- 👀 Quotion: If the code works then it's good code☝🏻😌
 
 <br>
 
