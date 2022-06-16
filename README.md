@@ -19,7 +19,6 @@
 </div>
 
 <br>
----
 
 ### 👨‍💻 About Me:
 - 🔭 I’m currently working on myself
@@ -28,7 +27,6 @@
 - 👀 Quotion: If the code works then it's good code☝🏻😌
 
 <br>
----
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
