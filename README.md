@@ -1,5 +1,4 @@
 <div align="center">
-  <h1>Hey, I'm Damir 👋</h1>
   <h3>Android Developer</h3>
   <p>Building native Android apps with Kotlin and Jetpack Compose.<br>Passionate about clean architecture, smooth UX, and well-tested code.</p>
 </div>
